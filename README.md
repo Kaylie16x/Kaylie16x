@@ -1,6 +1,6 @@
 ![logo](https://64.media.tumblr.com/fc671558a154e20251fc7e75ccba938a/tumblr_p29irjTxms1wvcbfqo1_1280.gif)
 <h1 align="center">✨ Hello, I'm Kaylie-Mae 😊</h1>
-<h3 align="center">✨ A self-motivated and passionate Front-End Web Developer/ Designer✨</h3>
+<h3 align="center">✨ A self-motivated and passionate Front-End Web Developer & UI Designer✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaylie16x&label=Profile%20views&color=0e75b6&style=flat" alt="kaylie16x" /> </p>
 
